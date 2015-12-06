@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cssmin (1.0.3)
+    erubis (2.7.0)
+    execjs (2.6.0)
+    htmlcompressor (0.1.1)
+    json (1.8.3)
+    uglifier (2.7.2)
+      execjs (>= 0.3.0)
+      json (>= 1.8.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cssmin
+  erubis
+  htmlcompressor
+  uglifier

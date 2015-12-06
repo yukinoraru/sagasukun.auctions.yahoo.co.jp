@@ -1,0 +1,29 @@
+.sagasukun {
+  text-align: left
+}
+.sagasukun a {
+  width: 12em;
+  position: relative;
+  display: inline-block;
+  padding: 0;
+  vertical-align: bottom;
+  color: #33322f;
+  border: 1px solid #9f9e98;
+  border-radius: 4px;
+  background: #f7f6f1;
+  text-align: center;
+  font-family: inherit;
+  cursor: pointer;
+  margin: 5px 3px 6px;
+  height: 27px;
+  line-height: 27px;
+  box-shadow: 0 -3px 0 0 #e2e1da inset;
+}
+.sagasukun h1 {
+  margin-top: 15px;
+  font-size: 130%;
+  color: #33322f;
+  margin-bottom: 2px;
+  padding: 6px 100px 4px 10px;
+  background: #f1f0e8;
+}
