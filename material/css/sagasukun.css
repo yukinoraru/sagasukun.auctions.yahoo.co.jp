@@ -1,6 +1,9 @@
 .sagasukun {
   text-align: left
 }
+.sagasukun a.disable {
+  background: #e2e1da;
+}
 .sagasukun a {
   width: 12em;
   position: relative;
